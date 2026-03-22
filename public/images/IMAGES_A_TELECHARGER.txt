@@ -1,0 +1,61 @@
+========================================
+LISTE DES IMAGES À TÉLÉCHARGER
+Restaurant DELICE - Menu Premium
+========================================
+
+INSTRUCTION: Téléchargez les images depuis Unsplash.com ou Pexels.com 
+et placez-les dans ce dossier avec les noms exacts ci-dessous.
+
+========================================
+[SALADES] ENTRÉES (6 images)
+========================================
+1. salade.jpeg (DÉJÀ PRÉSENTE [OK])
+2. foie-gras.jpg - Recherche: "foie gras plate gourmet"
+3. crevettes.jpg - Recherche: "shrimp dish gourmet"
+4. huitre.jpg - Recherche: "oyster gratin seafood"
+5. gravlax.jpg - Recherche: "gravlax salmon dish"
+6. veloute-truffe.jpg - Recherche: "truffle soup gourmet"
+
+========================================
+[VIANDES] PLATS PRINCIPAUX (7 images)
+========================================
+7. filet-mignon.jpg - Recherche: "filet mignon steak gourmet"
+8. saumon.jpg - Recherche: "grilled salmon fillet gourmet"
+9. coq-vin.jpg - Recherche: "coq au vin French dish"
+10. homard.jpg - Recherche: "lobster thermidor gourmet"
+11. canard.jpg - Recherche: "duck confit cherry sauce"
+12. turbot.jpg - Recherche: "turbot fish roasted gourmet"
+13. veau.jpg - Recherche: "veal chop mushroom sauce"
+
+========================================
+[GÂTEAU] DESSERTS (8 images)
+========================================
+14. tiramisu.jpg - Recherche: "tiramisu Italian dessert"
+15. creme-brulee.jpg - Recherche: "creme brulee dessert gourmet"
+16. souffle.jpg - Recherche: "chocolate souffle dessert"
+17. panna-cotta.jpg - Recherche: "panna cotta raspberry dessert"
+18. tarte-tatin.jpg - Recherche: "tarte tatin apple dessert"
+19. mousse-passion.jpg - Recherche: "passion fruit mousse dessert"
+20. profiteroles.jpg - Recherche: "profiteroles chocolate dessert"
+21. citron-meringuee.jpg - Recherche: "lemon meringue tart dessert"
+
+========================================
+[CRÉOLES] SPÉCIALITÉS CRÉOLES (6 images)
+========================================
+22. mofongo.jpg - Recherche: "mofongo Caribbean dish"
+23. dhal.jpg - Recherche: "lentil curry creole dish"
+24. rougail.jpg - Recherche: "rougail saucisse creole"
+25. accras.jpg - Recherche: "accras beignets fish creole"
+26. poisson-creole.jpg - Recherche: "whole fish creole sauce"
+27. colombo.jpg - Recherche: "colombo curry goat creole"
+
+========================================
+TOTAL: 27 images
+========================================
+
+Format accepté: JPG, JPEG, PNG
+Taille recommandée: 800x600px minimum
+Droits: Unsplash et Pexels = libre de droits [OK]
+
+Après avoir téléchargé les images, placez-les dans ce dossier 
+avec exactement les noms listés ci-dessus.
