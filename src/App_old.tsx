@@ -3,7 +3,6 @@ import './App.css'
 
 function App() {
   const [showReservationModal, setShowReservationModal] = useState(false)
-  const [showContactModal, setShowContactModal] = useState(false)
 
   return (
     <>
